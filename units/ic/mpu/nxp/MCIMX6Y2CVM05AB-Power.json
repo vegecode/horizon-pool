@@ -1,0 +1,80 @@
+{
+    "manufacturer": "NXP Semiconductors",
+    "name": "MCIMX6Y2CVM05AB Power",
+    "pins": {
+        "03fefe90-dc89-4170-bf2b-e1d272808922": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "NVCC_ENET",
+            "swap_group": 0
+        },
+        "0c6bdb85-064f-4ecd-ad7f-1e01fb157bf0": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "NVCC_NAND",
+            "swap_group": 0
+        },
+        "31a47e15-3e4e-4133-ad6a-b504accb2c18": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "NVCC_UART",
+            "swap_group": 0
+        },
+        "4a2765a9-f749-444e-b735-f99ac7c9ed1c": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "NVCC_DRAM",
+            "swap_group": 0
+        },
+        "5ce8131b-0d04-4a42-828a-6f277dcf49a7": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "ADC_VREFH",
+            "swap_group": 0
+        },
+        "91acdefa-5bd4-45b7-85c0-3f984ccc4499": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "NVCC_DRAM_2P5",
+            "swap_group": 0
+        },
+        "9577e30a-2290-4654-a79c-768d0381e3ac": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "NVCC_SD1",
+            "swap_group": 0
+        },
+        "a113d101-c9c3-4e95-92c3-f3d460111ca2": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "a5da6186-6557-4be1-a038-a3995dcc1f5f": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "NVCC_CSI",
+            "swap_group": 0
+        },
+        "af8df9b7-a757-48d4-8e7c-41e33eeec063": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "NVCC_LCD",
+            "swap_group": 0
+        },
+        "d6b1e867-66b5-46ff-8a44-0ba2e26a5a04": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "NVCC_PLL",
+            "swap_group": 0
+        },
+        "f8a67e80-a29c-4ca5-89aa-407d98596ca2": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "NVCC_GPIO",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "7bb52b31-5852-475f-b3b2-f4fdbb8cebda"
+}

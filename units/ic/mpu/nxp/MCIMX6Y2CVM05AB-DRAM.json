@@ -1,0 +1,338 @@
+{
+    "manufacturer": "NXP Semiconductors",
+    "name": "MCIMX6Y2CVM05AB DRAM",
+    "pins": {
+        "05997709-dfba-4f13-9f28-5bf594f78f79": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "DRAM_RAS_B",
+            "swap_group": 0
+        },
+        "0b66ea2a-9adf-486c-b503-3ea456ddfa3c": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "DRAM_SDCKE0",
+            "swap_group": 0
+        },
+        "135d3ab6-3777-4cc5-bebd-a2fcb9d10dc0": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "DRAM_ODT1",
+            "swap_group": 0
+        },
+        "1ab9edd6-6785-407f-832d-29b2a4568b9d": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "DRAM_ADDR15",
+            "swap_group": 0
+        },
+        "1b3d3a3b-9887-437a-934e-45b363487d71": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "DRAM_ADDR10",
+            "swap_group": 0
+        },
+        "1fab54ba-2b10-4389-a0a1-cbe9b1867dbf": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "DRAM_SDCLK0_P",
+            "swap_group": 0
+        },
+        "1fc75f26-de38-48a8-b0c3-bf878d9ee4e5": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "DRAM_CS1_B",
+            "swap_group": 0
+        },
+        "1fced5f4-54f8-4f7e-b574-734b3b432691": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "DRAM_ADDR07",
+            "swap_group": 0
+        },
+        "26eeefcf-a138-4647-abb8-47ea9d62fedf": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "DRAM_DATA05",
+            "swap_group": 0
+        },
+        "303c87b3-d858-4d98-b71f-ff9389a22ca9": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "DRAM_SDBA1",
+            "swap_group": 0
+        },
+        "30d4f26e-d72b-474f-8593-081401418718": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "DRAM_CAS_B",
+            "swap_group": 0
+        },
+        "37bc75eb-9747-4c6d-a9d4-e4c343cdf8d5": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "DRAM_DATA15",
+            "swap_group": 0
+        },
+        "3a115104-7ada-4b4c-a990-d3749674e82c": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "DRAM_ADDR05",
+            "swap_group": 0
+        },
+        "3fe1bdbd-e5eb-4a56-b670-603d692daba7": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "DRAM_DATA00",
+            "swap_group": 0
+        },
+        "48c5ed94-75fe-45b1-9c6a-855cbc703d91": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "DRAM_ADDR14",
+            "swap_group": 0
+        },
+        "4ccc359c-4462-46eb-a5dc-aa1989a02354": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "DRAM_RESET",
+            "swap_group": 0
+        },
+        "5078cd81-0b9e-4eb5-acd7-791323b1f14f": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "DRAM_DQM1",
+            "swap_group": 0
+        },
+        "56775f00-efa2-4f25-978c-d31fe5608a08": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "DRAM_SDQS1_P",
+            "swap_group": 0
+        },
+        "5cb08b90-0a2c-4cd3-b7e6-e2993be90d0b": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "DRAM_DATA11",
+            "swap_group": 0
+        },
+        "61f58d4b-4e97-40d1-adcc-d8be190c6179": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "DRAM_SDBA0",
+            "swap_group": 0
+        },
+        "66e6b5ca-2920-4a68-b7f0-f8c629ff33b9": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "DRAM_DQM0",
+            "swap_group": 0
+        },
+        "6752e992-bed4-41f0-829f-79a3d4100fb4": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "DRAM_DATA04",
+            "swap_group": 0
+        },
+        "6c970bd8-7faa-4579-9fbc-1a068da438a8": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "DRAM_ADDR09",
+            "swap_group": 0
+        },
+        "72a3ba72-0d86-4ccc-b246-bbf305538c97": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "DRAM_DATA14",
+            "swap_group": 0
+        },
+        "7a7ac969-e28e-46b0-bc84-9b4dce7e4ed4": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "DRAM_ZQPAD",
+            "swap_group": 0
+        },
+        "7b036485-d368-4fa4-a7ac-6400a9c3de02": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "DRAM_ADDR12",
+            "swap_group": 0
+        },
+        "7c4c82c9-8f01-466f-a988-8b7684dd6627": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "DRAM_SDBA2",
+            "swap_group": 0
+        },
+        "831debf2-2170-4dd6-8e71-3ab785faab56": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "DRAM_SDCLK0_N",
+            "swap_group": 0
+        },
+        "84df8793-2fe4-4401-ba04-84729435c837": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "DRAM_DATA02",
+            "swap_group": 0
+        },
+        "87cc5dbb-6bca-4a62-ba36-208041e6ea21": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "DRAM_SDQS0_P",
+            "swap_group": 0
+        },
+        "8896604c-4d45-4f5b-a040-503a2fd419b8": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "DRAM_DATA07",
+            "swap_group": 0
+        },
+        "8bceff67-18af-49ee-b2c1-0bd648907f90": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "DRAM_CS0_B",
+            "swap_group": 0
+        },
+        "8f4a012a-5928-4639-a864-84afefc82218": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "DRAM_ADDR13",
+            "swap_group": 0
+        },
+        "90b85927-5cf9-41e1-a4e6-b8143da071df": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "DRAM_DATA01",
+            "swap_group": 0
+        },
+        "977bef8b-3e98-46db-8c73-1274645511ca": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "DRAM_SDQS1_N",
+            "swap_group": 0
+        },
+        "9aa48399-c1c5-4131-b196-8d46d6f1a004": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "DRAM_ADDR03",
+            "swap_group": 0
+        },
+        "a1523fa8-ca25-4c27-b47f-6099233aee81": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "DRAM_ADDR06",
+            "swap_group": 0
+        },
+        "a1bfbae3-3762-4c90-976e-7085a9f5a5e7": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "DRAM_DATA12",
+            "swap_group": 0
+        },
+        "a62a9690-e0f2-4562-a510-357f45304c02": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "DRAM_ODT0",
+            "swap_group": 0
+        },
+        "ae310368-aadd-4942-bf3f-a1eeee59e85c": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "DRAM_ADDR08",
+            "swap_group": 0
+        },
+        "b61d1828-a762-46e7-8733-85f8d0638a14": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "DRAM_ADDR04",
+            "swap_group": 0
+        },
+        "b7e4e6e3-5806-4a6c-a6cc-d25e70a8181a": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "DRAM_ADDR00",
+            "swap_group": 0
+        },
+        "c0281946-fe28-4d18-89a8-5500e4b3d2c8": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "DRAM_ADDR02",
+            "swap_group": 0
+        },
+        "ce1ceb51-70c2-456f-99b6-644081d1ce14": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "DRAM_DATA03",
+            "swap_group": 0
+        },
+        "d3ed078d-f90d-4594-bd4d-4fcc6d88332d": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "DRAM_DATA06",
+            "swap_group": 0
+        },
+        "d6007b18-65ab-4691-b72a-639e7f01f86e": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "DRAM_SDWE_B",
+            "swap_group": 0
+        },
+        "d678b4fb-e950-4ac9-90d7-4b0684573ca2": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "DRAM_ADDR11",
+            "swap_group": 0
+        },
+        "d89649e7-b95a-47f9-b403-4d81d6b46f76": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "DRAM_SDCKE1",
+            "swap_group": 0
+        },
+        "dc5bbd9b-4a67-4d0f-833d-795a4ad147fc": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "DRAM_SDQS0_N",
+            "swap_group": 0
+        },
+        "e5794009-7bd5-4941-9bdf-7167212d7029": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "DRAM_DATA13",
+            "swap_group": 0
+        },
+        "e6b4e5ce-d68c-4c3e-a35c-35dba39f64c9": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "DRAM_DATA10",
+            "swap_group": 0
+        },
+        "e82c27d4-47ba-44ce-9176-ddc36bec9dee": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "DRAM_DATA08",
+            "swap_group": 0
+        },
+        "ea5eb2b2-e5a5-4037-b90b-5fc1fb1f626e": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "DRAM_VREF",
+            "swap_group": 0
+        },
+        "eab4bf4a-a370-45fa-87cd-e989364c9471": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "DRAM_ADDR01",
+            "swap_group": 0
+        },
+        "f59f5680-531f-4eea-9ed4-f078bd8f71cd": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "DRAM_DATA09",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "8b4bb629-9252-46f0-8ee5-710e6ad6c437"
+}

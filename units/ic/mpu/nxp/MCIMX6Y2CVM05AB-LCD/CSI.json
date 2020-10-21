@@ -1,0 +1,254 @@
+{
+    "manufacturer": "NXP Semiconductors",
+    "name": "MCIMX6Y2CVM05AB LCD/CSI",
+    "pins": {
+        "0314a5c9-4347-4605-86a6-c908ea91ccfc": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "CSI_MCLK",
+            "swap_group": 0
+        },
+        "058425a0-10ca-4338-9bcb-50adcb957dd4": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "LCD_DATA02",
+            "swap_group": 0
+        },
+        "0643ecd6-ed52-440e-9bd9-c840ddff3504": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "LCD_DATA14",
+            "swap_group": 0
+        },
+        "0821f508-6082-4dff-89ef-f3971583842b": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "LCD_ENABLE",
+            "swap_group": 0
+        },
+        "1b65bd41-8e4a-4835-a91e-b157c519d34b": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "LCD_DATA15",
+            "swap_group": 0
+        },
+        "213d39ed-cffc-4a8a-a0da-be7998a7bae8": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "CSI_DATA05",
+            "swap_group": 0
+        },
+        "27bb5a8d-d476-412d-99b7-b30f4dab394b": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "CSI_DATA01",
+            "swap_group": 0
+        },
+        "31754ea1-089d-4111-a8a3-144f45538251": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "LCD_DATA22",
+            "swap_group": 0
+        },
+        "37c80842-0c90-4006-9ddf-1e64b3d73aab": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "LCD_DATA01",
+            "swap_group": 0
+        },
+        "3d6a7cc1-3c47-4e3f-b72a-c3967533651b": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "CSI_PIXCLK",
+            "swap_group": 0
+        },
+        "3d7b5655-a3f1-4c22-b551-7302187d4db3": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "LCD_DATA03",
+            "swap_group": 0
+        },
+        "55a10fb6-6b52-47c7-a5ae-b1fe5f2cacd9": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "CSI_HSYNC",
+            "swap_group": 0
+        },
+        "589ac094-a597-481f-9d73-bb1cd4813822": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "CSI_DATA02",
+            "swap_group": 0
+        },
+        "58af339f-aaac-48ee-87da-dfa9ed256f8b": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "LCD_DATA10",
+            "swap_group": 0
+        },
+        "5aeff590-8f7d-40a5-b4e3-502d5f6e17c4": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "CSI_DATA00",
+            "swap_group": 0
+        },
+        "5b0b6acc-5452-47dc-890c-69fa3fbbfb11": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "LCD_DATA05",
+            "swap_group": 0
+        },
+        "5e81965f-698c-480f-a347-217c479e3e7c": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "LCD_DATA12",
+            "swap_group": 0
+        },
+        "6c41212e-9f3c-4889-bcbd-cc80f4ec45ff": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "LCD_DATA19",
+            "swap_group": 0
+        },
+        "793aa927-35b0-4657-8946-2dd2064139b9": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "CSI_DATA03",
+            "swap_group": 0
+        },
+        "80469262-cd8a-4a47-b719-fd0cdefb6c89": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "CSI_DATA07",
+            "swap_group": 0
+        },
+        "80a7fced-78e8-4487-a044-bcab6a3410bb": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "LCD_VSYNC",
+            "swap_group": 0
+        },
+        "85565e9c-5ac2-4800-845e-19e9020534cd": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "LCD_DATA16",
+            "swap_group": 0
+        },
+        "85ef396c-5e01-4fd1-b8e2-9813d0004e1c": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "CSI_VSYNC",
+            "swap_group": 0
+        },
+        "89019af7-159b-4418-8398-f5471c69337a": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "LCD_DATA20",
+            "swap_group": 0
+        },
+        "8ac573bd-56a7-432e-9ee0-a78d0d98b060": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "LCD_DATA00",
+            "swap_group": 0
+        },
+        "996571e2-e012-4cc7-90ef-512222a5b4eb": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "LCD_DATA11",
+            "swap_group": 0
+        },
+        "9db5ab11-faa9-4005-a0d1-cee7eac5c23e": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "LCD_DATA06",
+            "swap_group": 0
+        },
+        "a40da51d-1f7d-44c8-a1a6-0cecb8caec13": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "LCD_DATA09",
+            "swap_group": 0
+        },
+        "ac64cbca-6b2e-489f-81f0-cb55146a5bc0": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "LCD_DATA07",
+            "swap_group": 0
+        },
+        "b897577b-5f27-494e-8a04-3c367aea4d42": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "LCD_DATA04",
+            "swap_group": 0
+        },
+        "b932d97c-9c8d-44bb-a87f-7bf7c17a00ee": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "LCD_DATA18",
+            "swap_group": 0
+        },
+        "bf250ee5-a196-44fe-b274-5c9127cc6711": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "LCD_HSYNC",
+            "swap_group": 0
+        },
+        "d19c92ba-f446-40dd-9c62-ae89a4fc889e": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "CSI_DATA04",
+            "swap_group": 0
+        },
+        "d7d709a2-c812-46f8-bed7-13e5eeecc833": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "LCD_DATA08",
+            "swap_group": 0
+        },
+        "e7c8d8de-4206-4fa1-a1ef-abfe52cbee7a": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "LCD_DATA23",
+            "swap_group": 0
+        },
+        "e87c4cf8-d4d8-400a-bf48-d95d1eee88e8": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "LCD_RESET",
+            "swap_group": 0
+        },
+        "f2813546-c5f9-4598-a1ae-e4983c026357": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "LCD_DATA21",
+            "swap_group": 0
+        },
+        "f3deaf5e-e40e-4287-b545-d6881c9d5360": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "LCD_CLK",
+            "swap_group": 0
+        },
+        "f63d4e3a-9992-4dd2-9012-f6e69da6740a": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "LCD_DATA13",
+            "swap_group": 0
+        },
+        "fd7ed5d4-4521-4846-96b3-4a335d6d6f31": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "LCD_DATA17",
+            "swap_group": 0
+        },
+        "ffcb17c5-99b2-476a-95ec-bc6c20c22990": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "CSI_DATA06",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "18dee98e-f9b3-43ac-8438-3c8b19b3727c"
+}

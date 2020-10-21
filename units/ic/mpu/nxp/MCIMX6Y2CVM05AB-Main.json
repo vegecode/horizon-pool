@@ -1,0 +1,686 @@
+{
+    "manufacturer": "NXP Semiconductors",
+    "name": "MCIMX6Y2CVM05AB Main",
+    "pins": {
+        "00e65d44-7b0c-4703-81c9-e964fbe8cd17": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "CCM_CLK1_N",
+            "swap_group": 0
+        },
+        "02f92c3c-c1fd-4738-837e-8c639ef098ae": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "SNVS_TAMPER8",
+            "swap_group": 0
+        },
+        "044e5c52-a046-4c95-ae3f-e68760832484": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "GPIO1_IO01",
+            "swap_group": 0
+        },
+        "05f18dad-d7c3-4983-b790-2ced83f1c211": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "JTAG_TCK",
+            "swap_group": 0
+        },
+        "06b62f1e-9e9c-41c6-8c8b-d9f3d9d845da": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "UART1_RX_DATA",
+            "swap_group": 0
+        },
+        "0a4932cc-11e5-4eef-a52c-b084cd667937": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "GPIO1_IO00",
+            "swap_group": 0
+        },
+        "0bdadd6e-2c19-4f0c-a0f2-65467d3c0baa": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "UART1_TX_DATA",
+            "swap_group": 0
+        },
+        "0dd1953e-2d56-4a06-950e-95ab38eaac83": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "JTAG_TDO",
+            "swap_group": 0
+        },
+        "10c30ead-53dc-4cca-bab5-adfabe2957ab": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "UART3_RX_DATA",
+            "swap_group": 0
+        },
+        "137aca5d-e1cc-4a2a-8999-0dc689528beb": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "RTC_XTALI",
+            "swap_group": 0
+        },
+        "167f74b8-61e3-47dc-a2b4-a4c10a73719d": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VDD_HIGH_CAP2",
+            "swap_group": 0
+        },
+        "1700e93a-b174-4d5d-9ac8-4e6b1d041c79": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "UART5_TX_DATA",
+            "swap_group": 0
+        },
+        "18602806-c237-4d4c-9362-089f909149ad": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "CCM_PMIC_STBY_REQ",
+            "swap_group": 0
+        },
+        "1f385cfb-49a7-4f81-979c-82fd90f48ea6": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "GPIO1_IO03",
+            "swap_group": 0
+        },
+        "1f612c76-177d-43b0-a2a7-c15c389825ee": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "SNVS_TAMPER9",
+            "swap_group": 0
+        },
+        "216ae089-846a-4563-ad53-4b1ac9d2dbb1": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "UART4_TX_DATA",
+            "swap_group": 0
+        },
+        "23410aab-b25a-4ea9-967e-f9a3c6af0b5d": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VDD_USB_CAP",
+            "swap_group": 0
+        },
+        "25519323-3e21-4b78-893c-b472cb73f2dd": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VDD_SOC_IN",
+            "swap_group": 0
+        },
+        "276928ba-d998-4500-847a-a05134b74635": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VDD_ARM_CAP",
+            "swap_group": 0
+        },
+        "27c8422a-7bb3-4bb1-a43e-93036a1be1b4": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "ENET1_RX_DATA0",
+            "swap_group": 0
+        },
+        "2d33b32e-378d-4c6c-836a-2a04ebfeccb2": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "SD1_DATA2",
+            "swap_group": 0
+        },
+        "2df6f514-612f-4e72-9151-23326f71d575": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "SNVS_PMIC_ON_REQ",
+            "swap_group": 0
+        },
+        "2eca3673-1c28-468e-a259-9f2f16fce615": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "BOOT_MODE1",
+            "swap_group": 0
+        },
+        "2fd2ba34-0bd1-44bb-8636-d9fdeefcf0f6": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "ENET2_RX_ER",
+            "swap_group": 0
+        },
+        "3077228f-f4c4-4e96-ac1b-57230e96167d": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "GPIO1_IO08",
+            "swap_group": 0
+        },
+        "314533cf-e4c1-464d-b47e-e5cea2ef9af0": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "UART3_TX_DATA",
+            "swap_group": 0
+        },
+        "32a03a04-b436-446f-b674-39df9e5e5e18": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "NAND_DATA01",
+            "swap_group": 0
+        },
+        "352893d7-a2b2-4fab-9a5f-019b139a3015": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "NAND_CE0_B",
+            "swap_group": 0
+        },
+        "355795bd-4714-430d-8aa4-c7dab161f238": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "SD1_DATA3",
+            "swap_group": 0
+        },
+        "3558cdfe-07c9-4aa9-ae05-b987247de792": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "USB_OTG2_DN",
+            "swap_group": 0
+        },
+        "379338a8-30fd-493f-ac8b-a7d20e1f0559": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "CCM_CLK1_P",
+            "swap_group": 0
+        },
+        "39b4cdd8-ca2f-46ea-af79-8e074497ba7a": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "USB_OTG2_VBUS",
+            "swap_group": 0
+        },
+        "3dde171f-2fbc-41d3-a09d-fb69eaea8e90": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "GPIO1_IO06",
+            "swap_group": 0
+        },
+        "4022cc64-1a7c-4118-8848-673330659845": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "UART2_TX_DATA",
+            "swap_group": 0
+        },
+        "42397f90-4e6d-49b4-ab82-4e5c9d3bf3e8": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VDD_SNVS_CAP",
+            "swap_group": 0
+        },
+        "44b81c62-42a8-4e52-9d0a-de3e7702b124": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "UART2_RTS_B",
+            "swap_group": 0
+        },
+        "45196264-5d79-4418-ba29-9146f7859f02": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "ENET1_RX_DATA1",
+            "swap_group": 0
+        },
+        "45cfba54-d810-4683-870c-ea4eb8987ffc": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "JTAG_MOD",
+            "swap_group": 0
+        },
+        "4c6b4656-3125-405e-8bc9-1b13f47d5478": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "TEST_MODE",
+            "swap_group": 0
+        },
+        "4d147176-b5d3-4940-bf1b-35b063d86251": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "ENET2_TX_EN",
+            "swap_group": 0
+        },
+        "4f21618a-e5ef-406f-8608-7910362208c8": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "NAND_RE_B",
+            "swap_group": 0
+        },
+        "4fe1e086-dcff-4d78-9685-7bf400ab39da": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "JTAG_TMS",
+            "swap_group": 0
+        },
+        "533f20f6-a63f-4896-900c-fbd81a3cff5b": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "UART1_RTS_B",
+            "swap_group": 0
+        },
+        "5602c2e7-7ab1-4b19-bb21-41c267536ff0": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "NAND_WP_B",
+            "swap_group": 0
+        },
+        "5e221a2d-ccdf-4318-9b88-57b322d00713": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "ENET2_RX_DATA0",
+            "swap_group": 0
+        },
+        "60bf9b0e-620b-4146-804b-2887bffcc0f4": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "JTAG_TRST_B",
+            "swap_group": 0
+        },
+        "63878eda-3ca9-4155-ad30-c60b38acb061": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "ENET1_TX_DATA1",
+            "swap_group": 0
+        },
+        "65785ad1-0b4c-4f8d-bdfe-58537ccfbfca": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "ENET1_RX_ER",
+            "swap_group": 0
+        },
+        "6c52ada5-206c-47b0-9c57-e232c904dd5e": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "NAND_DATA07",
+            "swap_group": 0
+        },
+        "6cba21af-2424-4a88-9df6-413c262a5831": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "XTALO",
+            "swap_group": 0
+        },
+        "703c69f1-1cea-43eb-b4cb-3d4e7e966c5b": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "ENET1_RX_EN",
+            "swap_group": 0
+        },
+        "70ada862-15d2-490a-a1d6-d7519f89ab8c": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "GPIO1_IO07",
+            "swap_group": 0
+        },
+        "70d19b38-627a-46a0-a11e-d90f5aa7bf1d": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "USB_OTG1_VBUS",
+            "swap_group": 0
+        },
+        "72e59f14-bbf6-4679-ba55-31300ce27b55": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "USB_OTG1_DN",
+            "swap_group": 0
+        },
+        "730d2658-1262-4880-894e-2edc44f019ac": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "GPIO1_IO02",
+            "swap_group": 0
+        },
+        "73aa1819-dd1b-41a5-ae9d-d030845dc39c": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "SNVS_TAMPER7",
+            "swap_group": 0
+        },
+        "7490e7f7-6ed9-4782-94de-3182156fa9a9": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "GPIO1_IO05",
+            "swap_group": 0
+        },
+        "76855265-ac6e-4945-b263-a43152a48654": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "SNVS_TAMPER4",
+            "swap_group": 0
+        },
+        "769fe0b6-2c35-466d-a26b-7e525e5efbfb": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "NAND_DATA02",
+            "swap_group": 0
+        },
+        "778967b0-d0a0-4f0f-be1a-0c9307077f08": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "SNVS_TAMPER5",
+            "swap_group": 0
+        },
+        "7ab4a4dc-b4bc-4baf-b27d-c36546615243": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "ENET2_RX_DATA1",
+            "swap_group": 0
+        },
+        "7af32a02-ebf0-4944-9dfa-9bfec95f7c78": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "USB_OTG2_DP",
+            "swap_group": 0
+        },
+        "7d128a64-6a2d-451d-81e4-c0a4073aa2d5": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "NAND_DATA04",
+            "swap_group": 0
+        },
+        "7d4e9be0-932c-4e09-9952-f52f1f5416a7": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "NAND_CE1_B",
+            "swap_group": 0
+        },
+        "7e1942b5-5297-4cd5-b387-181c0d43d4d2": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "RTC_XTALO",
+            "swap_group": 0
+        },
+        "7e254c0a-9d70-4386-99ac-3ec0a7837a15": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "UART2_CTS_B",
+            "swap_group": 0
+        },
+        "8169c82d-4f82-486c-8c94-f80c199a8738": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "ENET2_TX_DATA0",
+            "swap_group": 0
+        },
+        "831a4cc8-eb11-48f0-a0c1-f13149aa86a3": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VDDA_ADC_3P3",
+            "swap_group": 0
+        },
+        "856cc4d8-e3f3-4f75-80cf-a438c43fbe9e": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VDD_SNVS_IN",
+            "swap_group": 0
+        },
+        "8836226f-70bf-498f-94f6-03982e3f55d3": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "NAND_DATA00",
+            "swap_group": 0
+        },
+        "8a5c45ff-a92f-45a4-ae2e-51a6661ec8e2": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "SNVS_TAMPER2",
+            "swap_group": 0
+        },
+        "8a9b6b60-9784-4ffd-a24b-15818534c264": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "ENET1_TX_EN",
+            "swap_group": 0
+        },
+        "8c2a4801-fc67-4fc6-96d0-2fd13bb99040": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "SD1_CLK",
+            "swap_group": 0
+        },
+        "8c31ef40-b851-413a-9a33-69ddc5eaadc0": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "UART4_RX_DATA",
+            "swap_group": 0
+        },
+        "90ce67c5-a51d-4818-9df4-7ffc44e5859c": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "NAND_ALE",
+            "swap_group": 0
+        },
+        "929652cf-e6b5-4979-b7ad-8eca91423ddb": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VDD_SOC_CAP",
+            "swap_group": 0
+        },
+        "94cc4258-5e19-4f4c-8907-d759bb02c862": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VDD_HIGH_CAP",
+            "swap_group": 0
+        },
+        "94dfca62-7c38-47c4-8867-23797b9605da": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "JTAG_TDI",
+            "swap_group": 0
+        },
+        "97b19eaf-0bae-47bd-a201-1d2124a12051": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "ONOFF",
+            "swap_group": 0
+        },
+        "9ed8d638-b866-417b-8c15-bec28ea10adf": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "ENET1_TX_CLK",
+            "swap_group": 0
+        },
+        "a2efa207-aa4c-4263-9bff-61ae1d747fa3": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "NGND_KEL0",
+            "swap_group": 0
+        },
+        "a51b0d39-372c-49fb-a718-99a5b9a90156": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "SNVS_TAMPER6",
+            "swap_group": 0
+        },
+        "a6e17763-9731-4e1b-8c14-675f0e61c512": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "SD1_DATA1",
+            "swap_group": 0
+        },
+        "a7ab1e05-9e00-43ac-9315-e3544401cbc1": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "GPANAIO",
+            "swap_group": 0
+        },
+        "aa74d315-d182-40e2-bb9a-8b76fb49e494": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "ENET2_TX_DATA1",
+            "swap_group": 0
+        },
+        "ac4af104-a9d7-40a2-833c-fd3036192726": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "NAND_DATA03",
+            "swap_group": 0
+        },
+        "b2fa94a7-8ca8-4b67-81d2-a64598026d35": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "GPIO1_IO04",
+            "swap_group": 0
+        },
+        "b7c0ff46-8936-4af2-a3cb-00b63212f258": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "USB_OTG1_CHD_B",
+            "swap_group": 0
+        },
+        "b8d73aec-b873-4ac3-b69a-4df96a248826": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "SD1_CMD",
+            "swap_group": 0
+        },
+        "ba2464c9-4e3e-42ac-9456-00e590bcc5d7": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "NAND_CLE",
+            "swap_group": 0
+        },
+        "bf6d86de-1d14-4d00-9fbe-e6e1defea471": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "SD1_DATA0",
+            "swap_group": 0
+        },
+        "c132deff-e730-49db-a454-66abc5035c60": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "SNVS_TAMPER0",
+            "swap_group": 0
+        },
+        "cb34ca81-5a10-4e9d-b8ff-0e058b3d98de": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "UART1_CTS_B",
+            "swap_group": 0
+        },
+        "cbbebf41-2772-4463-ac5b-39d1257d9521": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "SNVS_TAMPER3",
+            "swap_group": 0
+        },
+        "d916c68f-312b-4189-bde4-24bf5612ad16": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "UART3_CTS_B",
+            "swap_group": 0
+        },
+        "d97f8ff9-6a21-44b0-a39f-72f3995d2a6f": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "UART3_RTS_B",
+            "swap_group": 0
+        },
+        "dd03f009-8c39-4185-9e46-fffb979a52fb": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "NAND_DATA05",
+            "swap_group": 0
+        },
+        "dd44167d-1298-4f8b-9dcb-be31946316ef": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "GPIO1_IO09",
+            "swap_group": 0
+        },
+        "e0525bd6-297d-4704-8539-54c768c3a1b8": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "NAND_DATA06",
+            "swap_group": 0
+        },
+        "e0f0327a-ec4b-4c1f-9d4b-41f57bc4500f": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "ENET2_RX_EN",
+            "swap_group": 0
+        },
+        "e172bcec-f94f-4fc6-a0df-c90154928f14": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "BOOT_MODE0",
+            "swap_group": 0
+        },
+        "e36c174c-285d-4728-b7b6-dd7ce6be643c": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "ENET2_TX_CLK",
+            "swap_group": 0
+        },
+        "e4140bbe-eb71-47c4-bb86-f349c5352a3d": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "NAND_READY_B",
+            "swap_group": 0
+        },
+        "e5305506-da62-46b7-abcc-b92c452e29d0": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "NAND_DQS",
+            "swap_group": 0
+        },
+        "e620af8c-33bd-48fc-b597-5fe1c832a3d2": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "POR_B",
+            "swap_group": 0
+        },
+        "e7e85e2a-5ae8-47b7-8a50-8a0fc623aa3e": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "UART2_RX_DATA",
+            "swap_group": 0
+        },
+        "e94d188b-68a3-440d-bd03-352ad6da9b5b": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "NAND_WE_B",
+            "swap_group": 0
+        },
+        "ef635fcc-0f95-43af-ba02-12793e6f984f": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "ENET1_TX_DATA0",
+            "swap_group": 0
+        },
+        "ef65253e-c686-45f4-9585-fdf1ccd32093": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "USB_OTG1_DP",
+            "swap_group": 0
+        },
+        "f96a3b79-8c33-4b98-bc44-14a506b2211c": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "UART5_RX_DATA",
+            "swap_group": 0
+        },
+        "f9b2604a-28ec-4c88-8a79-e410e983dec4": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "SNVS_TAMPER1",
+            "swap_group": 0
+        },
+        "fa327126-9d33-4556-9e51-26b6c75fa5b7": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "XTALI",
+            "swap_group": 0
+        },
+        "fb546374-c36b-49d2-a298-dc7798c3bc9e": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VDD_HIGH_IN",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "eab63904-94fb-4b25-97fc-d680241a7755"
+}
