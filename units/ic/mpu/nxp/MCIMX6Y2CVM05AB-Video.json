@@ -1,6 +1,6 @@
 {
     "manufacturer": "NXP Semiconductors",
-    "name": "MCIMX6Y2CVM05AB LCD/CSI",
+    "name": "MCIMX6Y2CVM05AB Video",
     "pins": {
         "0314a5c9-4347-4605-86a6-c908ea91ccfc": {
             "direction": "output",
